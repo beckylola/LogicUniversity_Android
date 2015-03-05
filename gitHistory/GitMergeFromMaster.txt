@@ -1,0 +1,100 @@
+   63  cd platform-tools
+   64  ls
+   65  cd adb
+   66  ls
+   67  ~/Library/Android/sdk/platform-tools/adb \ install app-release.apk
+   68  ~/Library/Android/sdk/platform-tools/adb install app-release.apk
+   69  ~/Library/Android/sdk/platform-tools/adb install ~/Library/And/app-release.apk
+   70  cd /
+   71  ls
+   72  ls -a
+   73  cd Library
+   74  ls
+   75  cd ..
+   76  ls
+   77  cd applications
+   78  ls
+   79  ls -a
+   80  cd ..
+   81  ls
+   82  ls
+   83  ls
+   84  cd /
+   85  ls
+   86  cd users
+   87  ls
+   88  cd student
+   89  ls
+   90  cd desktop
+   91  ls
+   92  pwd
+   93  ~/Library/Android/sdk/platform-tools/adb install /users/student/desktop/app-release.apk
+   94  ~/Library/Android/sdk/platform-tools/adb install /users/student/desktop/app-release.apk
+   95  ~/Library/Android/sdk/platform-tools/adb install /users/student/desktop/app-release.apk
+   96  ~/Library/Android/sdk/platform-tools/adb install /users/student/desktop/app-release.apk
+   97  ~/Library/Android/sdk/platform-tools/adb install /users/student/desktop/app-release.apk
+   98  pwd
+   99  ls ~/.android/
+  100  keytool -list -v -keystore ~/.android/xujiao.keystore 
+  101  ~/Library/Android/sdk/platform-tools/adb install /users/student/desktop/app-release.apk
+  102  ~/Library/Android/sdk/platform-tools/adb install /users/student/desktop/app-release.apk
+  103  cd
+  104  cd .android
+  105  keytool -list -v -keystore debug.keystore
+  106  ~/Library/Android/sdk/platform-tools/adb install ~/desktop/example/Mymap/app/app-release.apk 
+  107  ~/Library/Android/sdk/platform-tools/adb install ~/desktop/example/Mymap/app/app-release.apk 
+  108  ~/Library/Android/sdk/platform-tools/adb install ~/desktop/example/Mymap/app/app-release.apk 
+  109  ~/Library/Android/sdk/platform-tools/adb install ~/desktop/example/Mymap/app/app-release.apk 
+  110   ~/Library/Android/sdk/platform-tools/adb install ~/desktop/example/Mymap/app/app-release.apk 
+  111   ~/Library/Android/sdk/platform-tools/adb install ~/desktop/example/Mymap/app/app-release.apk 
+  112  cd
+  113  ls
+  114  ls -a
+  115  .android
+  116  cd.android
+  117  cd .android
+  118  android
+  119  sdfka
+  120  /Users/student/Library/Developer/CoreSimulator/Devices/E16F9126-CE58-457D-BD38-E20A28A0FCC9/data/Containers/Bundle/Application/19AA4DEC-E02C-4F79-AF62-92FDF2400AC9/PropertListEx.app/PropertListEx ; exit;
+  121  git
+  122  clear
+  123  github
+  124  git--version
+  125  git --version
+  126  git status
+  127  ls
+  128  cd Desktop/
+  129  ls
+  130  cd LogicUniversity_Android/
+  131  ls
+  132  clear
+  133  git status
+  134  git ommit
+  135  git commit
+  136  git remove -v
+  137  git remote -v
+  138  git remote add upstream https://github.com/ZinMarHtet21/LogicUniversity_Android.git
+  139  git remote -v
+  140  git fetch upstream
+  141  git checkout master
+  142  git fetch upstream
+  143  git checkout master
+  144  git merge upstream/master
+  145  git commit -m "My message"
+  146  git merge upstream/master
+  147  git stash
+  148  git merge upstream/master
+  149  git merge upstream/ZMH
+  150  git stash
+  151  git merge upstream/ZMH
+  152  git commit
+  153  clear
+  154  ls
+  155  mkdir gitHistory
+  156  cd gitHistory/
+  157  history(100)
+  158  history(2)
+  159  history(5)
+  160  history 4
+  161  history 100
+  162  history 100 > GitMergeFromMaster.txt
